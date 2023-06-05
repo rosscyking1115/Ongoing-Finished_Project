@@ -8,4 +8,4 @@ Password: ross44763ygh
 Link: https://projectkaleido.com/
 
 3. 3D Customizable T-Shirt Website
-Link:
+Link: will be deployed in the future
