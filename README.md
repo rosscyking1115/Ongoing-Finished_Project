@@ -28,6 +28,7 @@ Purpose: To enhance learning and teaching experiences in the realm of computer s
 
 ### Docker-based Web Application
 This **Docker-based Web Application** revolutionizes how student attendance and participation are tracked and scored. It's a completed microservice web application that streamlines administrative work for educators, and provides students with an up-to-date attendance tracking system.
+- View Repository: https://github.com/rosscyking1115/Docker-based-Web-Application
 
 - Status: Completed.
 - Notable Features: Average attendance calculations, a scoring system based on active hours.
