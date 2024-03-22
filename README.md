@@ -25,7 +25,6 @@ Purpose: To enhance learning and teaching experiences in the realm of computer s
 ### 3D Customizable T-Shirt Website
 **3D Customizable T-Shirt Website** provides an immersive experience for users to design personalized t-shirts with a real-time 3D model. This project has completed its development cycle and serves as a robust platform for creativity.
  - Design Yours: https://custshirt.projectkaleido.com
- - View repository: https://github.com/rosscyking1115/3D-Customizable-T-Shirt-Website
 
 ### Docker-based Web Application
 This **Docker-based Web Application** revolutionizes how student attendance and participation are tracked and scored. It's a completed microservice web application that streamlines administrative work for educators, and provides students with an up-to-date attendance tracking system.
