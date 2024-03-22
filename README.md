@@ -9,7 +9,6 @@ Explore my portfolio of projects, ranging from interactive educational tools to 
 - Status: In active development.
 - Technology Stack: NextJS, D3.js
 - Purpose: To enhance learning and teaching experiences in the realm of computer science.
-- View Repository: https://github.com/rosscyking1115/Algorithm-Visualization-Web-App
 
 ## Completed Projects
 
